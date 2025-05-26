@@ -52,4 +52,4 @@ Visualizations show how survival is influenced by gender and class.
 
 ### 🔗 Credits
 
-Dataset Source: [Titanic - Machine Learning from Disaster (Kaggle)](https://www.kaggle.com/c/titanic)
+Dataset Source:https://www.kaggle.com/datasets/yasserh/titanic-dataset
